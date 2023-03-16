@@ -144,7 +144,7 @@ var games = {
     "r3hh":"Rayman 3 - Hoodlum Havoc",
     "ra":"Rayman Advance",
     "rtpl":"Rivera - The Promised Land",
-    "sag":"Sega Arcade Gallery",
+    "segaarcadegallery":"Sega Arcade Gallery",
     "sc":"Sim City 2000",
     "sonic_advance":"Sonic Advance",
     "sonic_advance2":"Sonic Advance 2",
